@@ -1,11 +1,15 @@
-# DSA in C++
+## Array Manipulation Techniques
 
-This repository contains my Data Structures and Algorithms practice in C++.
+This section contains fundamental array transformation algorithms frequently asked in coding interviews.
 
-## Topics Covered
+### Topics Covered
+- Insertion at a given index  
+- Deletion at a given index  
+- Left Rotation (Brute Force)  
+- Left Rotation (Reversal Algorithm - O(n))  
+- Right Rotation (Reversal Algorithm)  
 
-### Arrays
-- linear_search.cpp → Implements linear search in an array
-- largest_and_second_largest.cpp → Finds largest and second largest element using single pass
-
-More topics will be added as I continue learning DSA.
+### Complexity Analysis
+- Brute Force Rotation: O(n*k)
+- Reversal Algorithm: O(n)
+- Space Complexity: O(1)
